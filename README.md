@@ -1,2 +1,1 @@
-# CloudComputingNassau
-Resumo sobre cloud computing
+# Resumo sobre CLOUD COMPUTING
